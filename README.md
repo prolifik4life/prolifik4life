@@ -23,73 +23,72 @@ efficient, and innovative solutions that electrify user experience and enable su
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-            width="36" height="36" alt="JavaScript" title="JavaScript" /></a><a href="https://git-scm.com/"
+            width="36" height="36" alt="JavaScript" title="JavaScript" /></a>  <a href="https://git-scm.com/"
         target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-            width="36" height="36" alt="Git" title="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank"
+            width="36" height="36" alt="Git" title="Git" /></a>  <a href="https://www.typescriptlang.org/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-            width="36" height="36" alt="TypeScript" title="TypeScript" /></a><a
+            width="36" height="36" alt="TypeScript" title="TypeScript" /></a>  <a
         href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
-            width="36" height="36" alt="C#" title="C#" /></a><a href="https://code.visualstudio.com/" target="_blank"
+            width="36" height="36" alt="C#" title="C#" /></a>  <a href="https://code.visualstudio.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
-            width="36" height="36" alt="VS Code" title="VS Code" /></a><a
+            width="36" height="36" alt="VS Code" title="VS Code" /></a>  <a
         href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-            width="36" height="36" alt="HTML5" title="HTML5" /></a><a href="https://reactjs.org/" target="_blank"
+            width="36" height="36" alt="HTML5" title="HTML5" /></a>  <a href="https://reactjs.org/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-            width="36" height="36" alt="React" title="React" /></a><a href="https://angular.io/" target="_blank"
+            width="36" height="36" alt="React" title="React" /></a>  <a href="https://angular.io/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
-            width="36" height="36" alt="Angular" title="Angular" /></a><a href="https://jquery.com/" target="_blank"
+            width="36" height="36" alt="Angular" title="Angular" /></a>  <a href="https://jquery.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg"
-            width="36" height="36" alt="JQuery" title="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css"
+            width="36" height="36" alt="JQuery" title="JQuery" /></a>  <a href="https://www.w3.org/TR/CSS/#css"
         target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-            width="36" height="36" alt="CSS3" title="CSS3" /></a><a href="https://sass-lang.com/" target="_blank"
+            width="36" height="36" alt="CSS3" title="CSS3" /></a>  <a href="https://sass-lang.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
-            width="36" height="36" alt="Sass" title="Sass" /></a><a href="https://getbootstrap.com/" target="_blank"
+            width="36" height="36" alt="Sass" title="Sass" /></a>  <a href="https://getbootstrap.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
-            width="36" height="36" alt="Bootstrap" title="Bootstrap" /></a><a href="https://mui.com/" target="_blank"
+            width="36" height="36" alt="Bootstrap" title="Bootstrap" /></a>  <a href="https://mui.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
-            width="36" height="36" alt="Material UI" title="Material UI" /></a><a href="https://redux.js.org/"
+            width="36" height="36" alt="Material UI" title="Material UI" /></a>  <a href="https://redux.js.org/"
         target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
-            width="36" height="36" alt="Redux" title="Redux" /></a><a href="https://webpack.js.org/" target="_blank"
+            width="36" height="36" alt="Redux" title="Redux" /></a>  <a href="https://webpack.js.org/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg"
-            width="36" height="36" alt="Webpack" title="Webpack" /></a><a href="https://vitejs.dev/" target="_blank"
+            width="36" height="36" alt="Webpack" title="Webpack" /></a>  <a href="https://vitejs.dev/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
-            width="36" height="36" alt="Vite" title="Vite" /></a><a href="https://nodejs.org/en/" target="_blank"
+            width="36" height="36" alt="Vite" title="Vite" /></a>  <a href="https://nodejs.org/en/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-            width="36" height="36" alt="NodeJS" title="NodeJS" /></a><a href="https://expressjs.com/" target="_blank"
+            width="36" height="36" alt="NodeJS" title="NodeJS" /></a>  <a href="https://expressjs.com/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
-            width="36" height="36" alt="Express" title="Express" /></a><a href="https://www.postgresql.org/"
+            width="36" height="36" alt="Express" title="Express" /></a>  <a href="https://www.postgresql.org/"
         target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-            width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a><a href="https://www.figma.com/"
+            width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>  <a href="https://www.figma.com/"
         target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-            width="36" height="36" alt="Figma" title="Figma" /></a><a href="https://dotnet.microsoft.com/en-us/"
+            width="36" height="36" alt="Figma" title="Figma" /></a>  <a href="https://dotnet.microsoft.com/en-us/"
         target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg"
-            width="36" height="36" alt=".NET" title=".NET" /></a><a href="https://aws.amazon.com" target="_blank"
-        rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/aws-colored.svg"
-            width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services" /></a><a
+            width="36" height="36" alt=".NET" title=".NET" /></a>  <a href="https://aws.amazon.com" target="_blank"
+        rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/aws-colored.svg"
+            width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services" /></a>  <a
         href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-            width="36" height="36" alt="Docker" title="Docker" /></a><a href="https://kubernetes.io/" target="_blank"
+            width="36" height="36" alt="Docker" title="Docker" /></a>  <a href="https://kubernetes.io/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg"
             width="36" height="36" alt="Kubernetes" title="Kubernetes" /></a>
